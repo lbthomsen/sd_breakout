@@ -3214,8 +3214,8 @@
 			(justify right mirror)
 		)
 	)
-	(gr_text "${TITLE}\nRev. ${REVISION}"
-		(at 175.26 90.17 0)
+	(gr_text "${TITLE}\nRev. ${REVISION}\n${COMPANY}"
+		(at 175.895 87.63 0)
 		(layer "B.SilkS")
 		(uuid "d4bf0138-6095-4269-bd24-886e202578c4")
 		(effects
@@ -3223,7 +3223,7 @@
 				(size 1 1)
 				(thickness 0.1)
 			)
-			(justify left bottom mirror)
+			(justify left top mirror)
 		)
 	)
 	(gr_text "D0"

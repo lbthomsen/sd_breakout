@@ -505,7 +505,7 @@
       "idf": "",
       "netlist": "",
       "plot": "reva/",
-      "pos_files": "reva/",
+      "pos_files": "revb/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
