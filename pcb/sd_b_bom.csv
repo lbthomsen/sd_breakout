@@ -1,5 +1,5 @@
 "Reference","Qty","Value","Footprint","Datasheet","LCSC"
-"C1","1","10uF","Capacitor_SMD:C_0603_1608Metric","~","C719027"
+"C1","1","10uF","Capacitor_SMD:C_0603_1608Metric","~","C19702"
 "C2","1","100nF","Capacitor_SMD:C_0603_1608Metric","~","C14663"
 "J1","1","Micro_SD_Card_Det2","Connector_Card:microSD_HC_Hirose_DM3D-SF","https://www.hirose.com/en/product/document?clcode=&productname=&series=DM3&documenttype=Catalog&lang=en&documentid=D49662_en","C719027"
 "J2","1","Conn_01x09","Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical","~",""
