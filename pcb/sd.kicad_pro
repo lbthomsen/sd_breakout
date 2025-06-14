@@ -504,8 +504,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "revb/",
-      "pos_files": "revb/",
+      "plot": "revc/",
+      "pos_files": "revc/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -654,7 +654,7 @@
     "AUTHOR": "Lars Boegild Thomsen",
     "AUTHOR_EMAIL": "lth@stm32world.com",
     "COMPANY": "STM32World",
-    "REVISION": "b",
+    "REVISION": "c",
     "TITLE": "Micro-SD Breakout"
   }
 }
