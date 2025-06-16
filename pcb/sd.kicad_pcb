@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "${TITLE}")
+		(rev "${REVISION}")
+		(company "${COMPANY}")
+		(comment 1 "${AUTHOR}")
+		(comment 2 "${AUTHOR_EMAIL}")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -113,13 +120,13 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "revc/")
+			(outputdirectory "revd/")
 		)
 	)
 	(property "AUTHOR" "Lars Boegild Thomsen")
 	(property "AUTHOR_EMAIL" "lth@stm32world.com")
 	(property "COMPANY" "STM32World")
-	(property "REVISION" "c")
+	(property "REVISION" "d")
 	(property "TITLE" "Micro-SD Breakout")
 	(net 0 "")
 	(net 1 "GND")
@@ -2190,7 +2197,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C719027"
+		(property "LCSC" "C19702"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
